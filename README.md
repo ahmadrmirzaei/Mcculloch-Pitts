@@ -3,6 +3,7 @@ This Project is the 1st question of 1st computer assignment of NN course in spri
 
 Here I created a DFA using Mcculloch pitts neurons.
 In this DFA, the output become "1" if it sees the first "100" sequence.
+
 The state machine is like below.
 
 ![image](https://github.com/ahmadrmirzaei/Mcculloch_Pitts/assets/50135814/1b2bc64b-fa0b-4222-97b7-92fa1b2b0f53)
